@@ -4,10 +4,8 @@
 
 class Square():
     """ Square class (rectangle actually)"""
-
     width = 0
     height = 0
-
 
     def __init__(self, *args, **kwargs):
         """ initialization """
